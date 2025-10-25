@@ -1,7 +1,10 @@
 
-# Vite React TypeScript Starter
+# This project is a layout for recording video from a device and then uploading that video to a server for analysis 
 
-Minimal React + TypeScript template using Vite. Fast HMR, simple structure, and ESLint included.
+## Demo
+
+https://github.com/user-attachments/assets/7f40c88a-3c3a-4834-b240-3c4d9ff4725f
+
 
 ## Scripts
 - `npm run dev` — Start development server (port 3000)
@@ -20,6 +23,7 @@ Minimal React + TypeScript template using Vite. Fast HMR, simple structure, and 
 - React 19
 - Vite 7
 - TypeScript 5
+- TailwindCSS 3
 
 ## References
 - [Vite Documentation](https://vitejs.dev/)
