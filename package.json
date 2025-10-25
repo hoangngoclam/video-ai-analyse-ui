@@ -11,9 +11,9 @@
     "start": "serve -s dist"
   },
   "dependencies": {
+    "lucide-react": "^0.523.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "lucide-react": "^0.523.0"
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.38.0",
@@ -21,13 +21,16 @@
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.4.21",
     "eslint": "^9.38.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.4.0",
+    "postcss": "^8.4.35",
+    "serve": "^14.2.5",
+    "tailwindcss": "^3.4.1",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.1",
-    "vite": "^7.1.10",
-    "serve": "^14.2.5"
+    "vite": "^7.1.10"
   }
 }
